@@ -1,0 +1,26 @@
+{
+  "name": "common_entities",
+  "version": "1.0.0",
+  "description": "Common entities to use everywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kostanos/common_entities.git"
+  },
+  "keywords": [
+    "meteor",
+    "node",
+    "common",
+    "entities",
+    "schema"
+  ],
+  "author": "Kostya Kostyushko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kostanos/common_entities/issues"
+  },
+  "homepage": "https://github.com/Kostanos/common_entities#readme"
+}
